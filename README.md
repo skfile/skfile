@@ -1,4 +1,4 @@
-Hi, I’m @skfile. I like to think and create. That's about it.
+Hi, I’m @skfile. I like to build things. That's about it.
 
 <!---
 skfile/skfile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
